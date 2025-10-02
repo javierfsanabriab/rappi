@@ -1,7 +1,5 @@
 # rappi
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Prueba Técnica para Data Engineer: Migración de Datos Financieros
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++ Prueba Técnica para Data Engineer: Migración de Datos Financieros ++++
 
 El repositorio contiene los siguientes archivos con su respectiva funcionalidad:
 
